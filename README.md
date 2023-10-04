@@ -1,1 +1,1 @@
-Repository used to store various firmware for the creality printers
+Repository used to store various firmware and support files for the creality printers
